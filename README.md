@@ -17,3 +17,4 @@ Javascript, HTML, CSS, tailwind , React , zustand , Aos , React-router-dom
 ![ Screenshot8](https://github.com/kh-parveg-hossain/Electric-Shop/blob/main/e8.png?raw=true)
 ![ Screenshot9](https://github.com/kh-parveg-hossain/Electric-Shop/blob/main/e9.png?raw=true)
 
+Live  => https://electric-shop-ilo5.vercel.app/
